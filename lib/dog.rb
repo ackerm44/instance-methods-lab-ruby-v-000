@@ -1,11 +1,11 @@
 class Dog
 
-  def bark
-    puts "Woof!"
+  def name = (dog name)
+    this_dogs_name = dog_name
   end
 
-  def sit
-    puts "The Dog is sitting"
+  def name
+    this_dogs_name
   end
 
 end
